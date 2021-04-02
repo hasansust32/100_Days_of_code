@@ -32,8 +32,7 @@ isWining = True
 
 #f_string 
 
-print(f"Your Score is {score}, Your height is {height} , your wining is {isWining} ")
-
+print(f"Your score is {score}, Your height is {height} , your wining is {isWining} ")
 
 
 
